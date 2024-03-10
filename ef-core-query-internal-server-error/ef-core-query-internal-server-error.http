@@ -1,0 +1,9 @@
+@ef_core_query_internal_server_error_HostAddress = http://localhost:5271
+
+GET {{ef_core_query_internal_server_error_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+get /Application/Get
+Accept: application/json
