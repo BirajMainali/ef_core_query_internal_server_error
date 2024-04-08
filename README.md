@@ -1,1 +1,1 @@
-Please take a closer look to delve into the unit of work and transaction scope and how they produce errors like internal server errors, especially on ABP. Also, after this, you will understand when to initiate your own transaction scope.
+Please take a closer look to deive into the unit of work and transaction scope and how they produce errors like internal server errors, especially on ABP. Also, after this, you will understand when to initiate your transaction scope.
